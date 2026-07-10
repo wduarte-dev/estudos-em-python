@@ -1,0 +1,4 @@
+Essa linha foi escrita via código!
+E essa linha também!
+Mas tudo que estava escrito no arquivo foi embora!
+Adicionei esse texto sem remover nada do arquivo!

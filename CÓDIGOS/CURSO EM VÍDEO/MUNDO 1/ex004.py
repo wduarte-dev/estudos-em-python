@@ -1,0 +1,11 @@
+caractere = input('Digite algo: ')
+print('O seu tipo primitivo é',type(caractere))
+print('Possui apenas espaços?',caractere.isspace())
+print('É um número?',caractere.isnumeric())
+print('É alfabético?',caractere.isalpha())
+print('É alfanumérico?',caractere.isalnum())
+print('Está somente maiúsculo?',caractere.isupper())
+print('Está somente minúsculo?',caractere.islower())
+print('Está capitalizado?',caractere.istitle())
+
+input('\nPressione ENTER para sair do programa.')

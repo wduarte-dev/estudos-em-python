@@ -1,0 +1,5 @@
+E = int(input())
+S = int(input())
+L = int(input())
+n = abs(E-L)+abs(L-S)+abs(S-E)
+print(n)
